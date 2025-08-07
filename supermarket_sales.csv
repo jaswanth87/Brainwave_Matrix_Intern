@@ -1,0 +1,101 @@
+Invoice ID,Date,City,Product,Unit Price,Quantity,Total,Payment Method,Gender,Rating
+INV1000,2025-07-19,Mumbai,Shampoo,139.31,4,557.24,E-Wallet,Female,6.1
+INV1001,2025-07-09,Delhi,Soda,166.4,10,1664.0,E-Wallet,Male,5.0
+INV1002,2025-07-11,Mumbai,Shampoo,37.83,1,37.83,Cash,Male,5.6
+INV1003,2025-07-25,Hyderabad,Milk,127.2,1,127.2,Credit Card,Male,8.8
+INV1004,2025-07-14,Hyderabad,Rice,135.87,6,815.22,Cash,Male,6.6
+INV1005,2025-07-06,Hyderabad,Biscuits,54.97,4,219.88,E-Wallet,Male,8.0
+INV1006,2025-07-23,Hyderabad,Eggs,114.29,9,1028.61,Cash,Female,5.5
+INV1007,2025-07-12,Delhi,Sugar,45.24,7,316.68,Credit Card,Male,4.0
+INV1008,2025-07-16,Hyderabad,Bread,136.25,6,817.5,Cash,Female,3.7
+INV1009,2025-07-12,Delhi,Soda,146.94,9,1322.46,Credit Card,Male,1.6
+INV1010,2025-07-27,Mumbai,Soda,47.83,10,478.3,E-Wallet,Male,4.0
+INV1011,2025-07-10,Delhi,Rice,61.78,3,185.34,E-Wallet,Female,3.6
+INV1012,2025-07-20,Hyderabad,Soap,51.63,6,309.78,E-Wallet,Female,3.0
+INV1013,2025-07-03,Delhi,Milk,28.35,10,283.5,Credit Card,Female,3.1
+INV1014,2025-07-03,Mumbai,Biscuits,93.42,3,280.26,Credit Card,Male,4.4
+INV1015,2025-07-15,Hyderabad,Sugar,86.1,6,516.6,Credit Card,Male,3.2
+INV1016,2025-07-23,Delhi,Biscuits,111.74,4,446.96,Cash,Female,3.7
+INV1017,2025-07-14,Delhi,Shampoo,160.11,3,480.33,E-Wallet,Male,2.5
+INV1018,2025-07-22,Hyderabad,Sugar,81.98,2,163.96,Credit Card,Female,6.4
+INV1019,2025-07-03,Mumbai,Rice,61.05,9,549.45,Credit Card,Female,3.0
+INV1020,2025-07-07,Hyderabad,Soap,188.76,4,755.04,Credit Card,Female,2.1
+INV1021,2025-07-01,Delhi,Eggs,51.88,3,155.64,Credit Card,Male,5.4
+INV1022,2025-07-06,Hyderabad,Fruits,33.45,6,200.7,Credit Card,Male,5.2
+INV1023,2025-07-29,Mumbai,Sugar,191.52,1,191.52,Cash,Male,9.7
+INV1024,2025-07-19,Mumbai,Soap,57.6,2,115.2,E-Wallet,Male,3.5
+INV1025,2025-07-09,Hyderabad,Sugar,113.52,7,794.64,Credit Card,Male,8.3
+INV1026,2025-07-29,Mumbai,Shampoo,125.09,6,750.54,Cash,Female,5.1
+INV1027,2025-07-02,Hyderabad,Rice,142.5,6,855.0,Cash,Male,8.1
+INV1028,2025-07-26,Mumbai,Milk,158.67,5,793.35,Credit Card,Male,3.9
+INV1029,2025-07-03,Hyderabad,Milk,25.28,5,126.4,E-Wallet,Female,3.4
+INV1030,2025-07-17,Delhi,Rice,160.94,1,160.94,E-Wallet,Male,4.4
+INV1031,2025-07-14,Hyderabad,Bread,121.39,3,364.17,E-Wallet,Male,4.7
+INV1032,2025-07-03,Mumbai,Fruits,129.14,8,1033.12,Cash,Female,5.3
+INV1033,2025-07-03,Mumbai,Soda,27.56,7,192.92,E-Wallet,Male,5.6
+INV1034,2025-07-25,Delhi,Sugar,87.39,7,611.73,Cash,Male,8.2
+INV1035,2025-07-21,Delhi,Soap,56.51,10,565.1,Credit Card,Male,2.7
+INV1036,2025-07-17,Mumbai,Soda,23.92,2,47.84,E-Wallet,Male,4.7
+INV1037,2025-07-14,Delhi,Shampoo,137.98,9,1241.82,Credit Card,Female,2.9
+INV1038,2025-07-22,Hyderabad,Fruits,102.31,2,204.62,E-Wallet,Female,2.6
+INV1039,2025-07-19,Mumbai,Fruits,57.14,10,571.4,E-Wallet,Female,7.3
+INV1040,2025-07-14,Delhi,Eggs,183.63,3,550.89,Cash,Female,6.2
+INV1041,2025-07-05,Hyderabad,Rice,199.21,5,996.05,E-Wallet,Male,1.1
+INV1042,2025-07-06,Hyderabad,Biscuits,160.11,4,640.44,Credit Card,Female,8.8
+INV1043,2025-07-17,Delhi,Soda,36.62,7,256.34,Credit Card,Female,3.5
+INV1044,2025-07-26,Hyderabad,Eggs,147.68,9,1329.12,Cash,Male,6.3
+INV1045,2025-07-28,Hyderabad,Sugar,39.34,2,78.68,E-Wallet,Female,6.2
+INV1046,2025-07-28,Mumbai,Sugar,166.52,5,832.6,Cash,Female,9.3
+INV1047,2025-07-22,Delhi,Milk,25.45,8,203.6,E-Wallet,Male,2.7
+INV1048,2025-07-12,Delhi,Biscuits,50.0,6,300.0,Cash,Female,1.1
+INV1049,2025-07-31,Mumbai,Biscuits,114.99,2,229.98,E-Wallet,Female,6.1
+INV1050,2025-07-11,Delhi,Eggs,165.34,6,992.04,Credit Card,Female,5.0
+INV1051,2025-07-01,Hyderabad,Shampoo,154.68,6,928.08,E-Wallet,Male,4.7
+INV1052,2025-07-11,Mumbai,Fruits,94.6,4,378.4,Cash,Male,8.9
+INV1053,2025-07-30,Mumbai,Fruits,190.68,2,381.36,Credit Card,Female,1.8
+INV1054,2025-07-30,Delhi,Bread,81.64,2,163.28,Credit Card,Female,8.0
+INV1055,2025-07-16,Hyderabad,Soda,181.0,9,1629.0,Credit Card,Female,5.8
+INV1056,2025-07-29,Mumbai,Eggs,44.48,8,355.84,Cash,Female,3.9
+INV1057,2025-07-22,Delhi,Biscuits,64.09,8,512.72,Cash,Male,1.8
+INV1058,2025-07-06,Hyderabad,Sugar,70.44,7,493.08,Credit Card,Female,9.7
+INV1059,2025-07-05,Delhi,Rice,82.38,7,576.66,Cash,Female,8.3
+INV1060,2025-07-08,Mumbai,Biscuits,23.6,7,165.2,Credit Card,Female,5.2
+INV1061,2025-07-07,Mumbai,Biscuits,85.78,10,857.8,E-Wallet,Female,10.0
+INV1062,2025-07-15,Delhi,Shampoo,68.34,4,273.36,Cash,Female,2.8
+INV1063,2025-07-02,Mumbai,Soda,102.1,5,510.5,Credit Card,Female,1.9
+INV1064,2025-07-26,Delhi,Soda,182.08,10,1820.8,Credit Card,Female,5.0
+INV1065,2025-07-07,Delhi,Eggs,53.12,7,371.84,E-Wallet,Male,3.4
+INV1066,2025-07-13,Mumbai,Shampoo,73.44,1,73.44,E-Wallet,Male,8.4
+INV1067,2025-07-30,Delhi,Sugar,49.07,10,490.7,E-Wallet,Female,2.0
+INV1068,2025-07-20,Mumbai,Rice,109.03,7,763.21,Credit Card,Male,2.0
+INV1069,2025-07-02,Delhi,Soda,55.97,6,335.82,Cash,Female,9.0
+INV1070,2025-07-25,Mumbai,Rice,156.09,3,468.27,Cash,Female,1.4
+INV1071,2025-07-21,Mumbai,Rice,81.84,9,736.56,E-Wallet,Male,8.4
+INV1072,2025-07-01,Delhi,Sugar,158.67,2,317.34,Cash,Male,8.7
+INV1073,2025-07-28,Hyderabad,Biscuits,140.02,7,980.14,Credit Card,Male,9.1
+INV1074,2025-07-07,Hyderabad,Shampoo,60.95,8,487.6,Credit Card,Male,6.9
+INV1075,2025-07-04,Hyderabad,Eggs,61.79,6,370.74,Credit Card,Male,4.9
+INV1076,2025-07-06,Mumbai,Rice,27.5,10,275.0,Credit Card,Male,6.5
+INV1077,2025-07-01,Mumbai,Biscuits,194.86,7,1364.02,E-Wallet,Male,8.9
+INV1078,2025-07-22,Mumbai,Fruits,195.36,10,1953.6,Credit Card,Male,8.1
+INV1079,2025-07-30,Delhi,Biscuits,65.85,8,526.8,Credit Card,Female,3.1
+INV1080,2025-07-15,Delhi,Bread,48.45,7,339.15,E-Wallet,Female,2.1
+INV1081,2025-07-22,Delhi,Soda,156.43,2,312.86,Credit Card,Female,7.3
+INV1082,2025-07-29,Mumbai,Fruits,23.68,1,23.68,Cash,Male,9.4
+INV1083,2025-07-12,Mumbai,Eggs,100.79,4,403.16,E-Wallet,Female,2.4
+INV1084,2025-07-09,Mumbai,Eggs,136.12,4,544.48,Cash,Female,1.6
+INV1085,2025-07-15,Hyderabad,Eggs,58.7,4,234.8,Credit Card,Female,7.2
+INV1086,2025-07-20,Delhi,Bread,196.39,5,981.95,Cash,Female,4.4
+INV1087,2025-07-20,Delhi,Soap,98.22,8,785.76,Cash,Female,7.4
+INV1088,2025-07-18,Delhi,Fruits,37.26,3,111.78,Credit Card,Female,8.8
+INV1089,2025-07-01,Hyderabad,Biscuits,133.09,1,133.09,Credit Card,Male,2.2
+INV1090,2025-07-18,Delhi,Rice,68.13,7,476.91,Credit Card,Female,2.7
+INV1091,2025-07-15,Hyderabad,Biscuits,30.18,10,301.8,Credit Card,Female,3.2
+INV1092,2025-07-19,Hyderabad,Milk,84.23,5,421.15,Cash,Female,8.0
+INV1093,2025-07-07,Delhi,Shampoo,136.93,7,958.51,E-Wallet,Male,4.9
+INV1094,2025-07-08,Mumbai,Shampoo,161.42,3,484.26,E-Wallet,Female,4.6
+INV1095,2025-07-07,Delhi,Eggs,146.44,9,1317.96,Credit Card,Male,8.4
+INV1096,2025-07-26,Hyderabad,Fruits,160.4,8,1283.2,Cash,Male,2.2
+INV1097,2025-07-04,Hyderabad,Shampoo,147.3,1,147.3,Cash,Female,8.4
+INV1098,2025-07-25,Hyderabad,Milk,51.33,4,205.32,E-Wallet,Female,9.0
+INV1099,2025-07-08,Delhi,Soap,45.39,10,453.9,Cash,Female,8.3
